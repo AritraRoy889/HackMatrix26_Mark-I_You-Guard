@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" fill="none">
+  <g transform="translate(4, 4)">
+    <rect width="36" height="36" rx="10" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-width="1.5" />
+    <path d="M18 6L8 10.5V17.5C8 23.5 12.3 29.1 18 30.5C23.7 29.1 28 23.5 28 17.5V10.5L18 6Z" fill="#ffffff" />
+    <path d="M14 18.5L17 21.5L22 15.5" stroke="#0f172a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="50" y="27" font-family="'Inter', sans-serif" font-weight="900" font-size="18" fill="#ffffff" letter-spacing="-0.5">THREAT<tspan fill="#38bdf8">GUARD</tspan></text>
+</svg>
